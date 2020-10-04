@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**garywill/garywill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Please navigate to [this page](https://garywill.github.io) for a brief view of my useful and useless open source projects
 
-Here are some ideas to get you started:
+- Linux Tools
+- Browser Addons
+- Firefox userChrome CSS and JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and so on.
+
+If you want to buy me a coffee, click [here](https://github.com/garywill/receiving/blob/master/receiving_methods.md) for my receiving methods.
+
+我的[中文博客](https://www.cnblogs.com/garyw/)
+
+也欢迎[稍作打赏](https://github.com/garywill/receiving/blob/master/receiving_methods.md)
