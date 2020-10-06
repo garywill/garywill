@@ -5,9 +5,8 @@ Please navigate to [**this Homepage** 🏡](https://garywill.github.io) for a br
 - Linux Tools
 - Browser Addons
 - Firefox userChrome scripts
-
-and so on.
+- and so on ...
 
 My [English Blog ✍️](https://garywill.github.io/enblog) | [🌱 Buy me a coffee](https://github.com/garywill/receiving/blob/master/receiving_methods.md)
 
-我的[中文博客 ✍️](https://www.cnblogs.com/garyw/) | [🌱 来点打赏，感谢馨香](https://github.com/garywill/receiving/blob/master/receiving_methods.md)
+我的[中文博客 ✍️](https://www.cnblogs.com/garyw/) | [🌱 一点打赏，万分馨香 （有支付宝红包领）](https://github.com/garywill/receiving/blob/master/receiving_methods.md)
