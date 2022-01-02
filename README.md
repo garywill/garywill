@@ -7,4 +7,4 @@
 - App / Addon will NOT send what URLs user visit to any analystic server.
 - Any our app / addon is NOT using cookies or any local-stored thing to identify a device or a person.
 - We will NOT show, sell, share or give analystic data to any third-party.
-- For users who extremly care about his / her / one's privacy, Big Search addon provides option to totally turn analystic off.
+- We are privacy-aware people! We repect any user who extremly care about his / her / one's privacy. Big Search addon provides option to totally turn analystic off.
